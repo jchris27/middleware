@@ -1,0 +1,2 @@
+2024/11/01	16:11:12	8f1b5347-fa35-4d5c-8ca6-554e56d8ac5c	Error: Not allowed by CORS
+2024/22/01	16:22:02	5f8cae7e-5cb2-4e28-bc53-64d9c4a48c8b	SyntaxError: Expected property name or '}' in JSON at position 1
